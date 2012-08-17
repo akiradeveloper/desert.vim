@@ -5,9 +5,5 @@ easy-on-the-eyes theme.
 
 Screenshot: http://hans.fugal.net/vim/colors/desert.html
 
-Get the latest version at https://github.com/fugalh/desert.vim
-Put in ~/.vim/colors or (<your-vim-dir>\vimfiles\colors on Windows) and do
-:colorscheme desert
-
 I mostly don't maintain this anymore. Occasionally someone has a tweak
 suggestion - I recommend forking this and sending a pull request, or not.
